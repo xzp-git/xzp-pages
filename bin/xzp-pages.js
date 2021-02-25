@@ -1,3 +1,4 @@
 #!/usr/bin/env node
-process.argv.push(...["--cwd",process.cwd(),"--gupfile",require.resolve("..")])
+process.argv.push(...["--cwd",process.cwd(),"--gulpfile",require.resolve("..")])
 require("gulp/bin/gulp");
+// console.log("xzp=======");

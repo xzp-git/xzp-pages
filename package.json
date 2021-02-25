@@ -1,10 +1,10 @@
 {
-  "name": "xzp-pages",
+  "name": "xzp-page",
   "version": "0.2.0",
   "description": "static web app workflow",
   "keywords": [
-    "zce-pages",
-    "zce"
+    "xzp-page",
+    "xzp"
   ],
   "homepage": "https://github.com/zce/zce-pages#readme",
   "bugs": {
